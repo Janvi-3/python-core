@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-01 16:59",
+        "description": "lunch ",
+        "amount": 500.0,
+        "category": "Food"
+    },
+    {
+        "date": "2025-07-01 17:00",
+        "description": "Bus Ticket ",
+        "amount": 300.0,
+        "category": "Transport"
+    },
+    {
+        "date": "2025-07-01 17:01",
+        "description": "Rent",
+        "amount": 11000.0,
+        "category": "Housing"
+    },
+    {
+        "date": "2025-07-01 17:01",
+        "description": "Movie ",
+        "amount": 999.0,
+        "category": "Entertainment"
+    },
+    {
+        "date": "2025-07-01 17:03",
+        "description": "Shopping",
+        "amount": 20000.0,
+        "category": "Other"
+    }
+]

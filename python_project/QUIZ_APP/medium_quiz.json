@@ -1,0 +1,89 @@
+{
+"Historical Events":
+ [
+    {
+        "Question":"The France Revolution began in which year? ",
+        "Options":[
+                    "1789",
+                    "1765",
+                    "1884",
+                    "1947"],
+        "Answer":"1789"
+    },
+    {
+       "Question":"The Berlin Wall fell in which year, marking the end of Cold War divisions? ",
+        "Options":[
+                    "1789",
+                    "1765",
+                    "1884",
+                    "1989"],
+        "Answer":"1989" 
+    }
+ ],
+"Scientific Discoveries":
+ [
+    {
+       "Question":"Who discovered the theory of relativity?",
+       "Options":[
+                    "Stephen Hawking",
+                    "Albert Einstein",
+                    "Galileo Galilei",
+                    "Isaac Newton"
+       ],
+       "Answer":"Albert Einstein"
+    },
+    {
+       "Question":"What did Alexander Fleming discover in 1928 ?",
+       "Options":[
+                    "Electricity",
+                    "DNA Structure",
+                    "Penicillin",
+                    "X-rays"
+       ],
+       "Answer":"Penicillin"
+    }
+ ],
+ "Famous Authors and Books": 
+ [
+   {
+      "Question":"Who wrote 'Pride and Prejudice'?",
+      "Options":[
+                  "Jane Austen",   
+                  "Charles Dickens",
+                  "Leo Tolsoy",
+                  "Mark Twain"   
+      ],
+      "Answer":"Jane Austen"
+   },
+   {
+      "Question":"'The God of Small Things' was written by Indian Author ?",
+      "Options":[
+                  "Jane Austen",   
+                  "Ruskin Bond",
+                  "R.K Narayan",
+                  "Arundhati Roy"   
+      ],
+      "Answer":"Arundhati Roy"
+   }
+ ],
+"Geography": [
+   {
+      "Question": "Which is the longest river in the world?",
+      "Options": ["Amazon", 
+                  "Nile",
+                  "Yangtze",
+                  "Mississippi"
+               ],
+      "Answer": "Nile"
+   },
+   {
+      "Question": "Mount Everest is located in which mountain range?",
+      "Options": ["Alps",
+                  "Andes",
+                  "Himalayas",
+                  "Rockies"
+               ],
+      "Answer": "Himalayas"
+   }
+  ]
+}
