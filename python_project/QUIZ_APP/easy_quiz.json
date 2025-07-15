@@ -1,0 +1,53 @@
+{
+  "GK Basic": [
+    {
+      "Question": "What is the Capital of India?",
+      "Options": ["Mumbai", "Delhi", "Indore", "Pune"],
+      "Answer": "Delhi"
+    },
+    {
+      "Question": "What is the Capital of France?",
+      "Options": ["Berlin", "Rome", "Paris", "Landon"],
+      "Answer": "Paris"
+    }
+  ],
+
+  "National Symbols": [
+    {
+      "Question": "What is the National Animal of India?",
+      "Options": ["Lion", "Tiger", "Elephant", "Cow"],
+      "Answer": "Tiger"
+    },
+    {
+      "Question": "The bald eagle is the national bird of which country?",
+      "Options": ["Canada", "USA", "UK", "England"],
+      "Answer": "USA"
+    }
+  ],
+
+  "Famous Landmarks": [
+    {
+      "Question": "In which country would you find the Great Pyramid of Giza?",
+      "Options": ["Greece", "Egypt", "Italy", "Turkey"],
+      "Answer": "Egypt"
+    },
+    {
+      "Question": "The Statue of Liberty is located in which US city?",
+      "Options": ["Los Angeles", "Chicago", "New York", "Canada"],
+      "Answer": "New York"
+    }
+  ],
+
+  "Basic Science": [
+    {
+      "Question": "What is a Chemical Symbol of Water?",
+      "Options": ["H2O", "CO2", "O2", "NaCl"],
+      "Answer": "H2O"
+    },
+    {
+      "Question": "Which planet is known as a Red Planet?",
+      "Options": ["Earth", "Venus", "Mars", "Jupitar"],
+      "Answer": "Mars"
+    }
+  ]
+}

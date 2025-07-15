@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-01",
+        "temp": 25.0,
+        "rainfall": 5.0,
+        "humidity": 60.0
+    },
+    {
+        "date": "2025-07-01",
+        "temp": 25.0,
+        "rainfall": 5.0,
+        "humidity": 60.0
+    },
+    {
+        "date": "2025-07-02",
+        "temp": 30.0,
+        "rainfall": 6.0,
+        "humidity": 60.0
+    },
+    {
+        "date": "2025-07-03",
+        "temp": 21.0,
+        "rainfall": 8.0,
+        "humidity": 70.0
+    },
+    {
+        "date": "2025-07-06",
+        "temp": 23.0,
+        "rainfall": 7.0,
+        "humidity": 8.0
+    }
+]

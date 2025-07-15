@@ -1,0 +1,70 @@
+{
+  "Ancient Civilizations": [
+    {
+      "question": "Which ancient civilization is known for developing cuneiform writing?",
+      "options": ["Ancient Egypt", "Mesopotamia", "Indus Valley", "Ancient Greece"],
+      "answer": "Mesopotamia"
+    },
+    {
+      "question": "The Great Wall of China was primarily built during which dynasty?",
+      "options": ["Han", "Ming", "Tang", "Qing"],
+      "answer": "Ming"
+    }
+  ],
+  "Obscure Historical Figures": [
+    {
+      "question": "Who was the first female pharaoh of ancient Egypt?",
+      "options": ["Cleopatra", "Hatshepsut", "Nefertiti", "Merneith"],
+      "answer": "Hatshepsut"
+    },
+    {
+      "question": "Which lesser-known figure is credited with the invention of the printing press in the 15th century?",
+      "options": [
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Thomas Edison",
+        "Benjamin Franklin"
+      ],
+      "answer": "Johannes Gutenberg"
+    }
+  ],
+  "Specialized Geography": [
+    {
+      "question": "Which river forms part of the border between the United States and Mexico?",
+      "options": ["Colorado River", "Rio Grande", "Mississippi River", "Missouri River"],
+      "answer": "Rio Grande"
+    },
+    {
+      "question": "The Himalayas separate which two countries?",
+      "options": [
+        "India and Pakistan",
+        "India and China",
+        "Nepal and Bhutan",
+        "India and Bangladesh"
+      ],
+      "answer": "India and China"
+    }
+  ],
+  "Complex Economic Concepts": [
+    {
+      "question": "What does the term 'opportunity cost' refer to in economics?",
+      "options": [
+        "The cost of producing one more unit of a good",
+        "The loss of potential gain from other alternatives when one alternative is chosen",
+        "The total cost of production",
+        "The cost of living in a specific area"
+      ],
+      "answer": "The loss of potential gain from other alternatives when one alternative is chosen"
+    },
+    {
+      "question": "In Keynesian economics, what is the primary driver of economic growth?",
+      "options": [
+        "Supply-side factors",
+        "Consumer demand",
+        "Government regulation",
+        "International trade"
+      ],
+      "answer": "Consumer demand"
+    }
+  ]
+}
