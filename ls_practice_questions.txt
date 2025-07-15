@@ -1,0 +1,29 @@
+'''
+Q1) Given a list of distinct N numbers a1,a2,a3,....an.
+    Find the position of number K in the given list.
+'''
+'''
+Q2) Given an array & a number, count.
+    How many times the number appears in the array using linear search?
+'''
+'''
+Q3) In a list of integers (with duplicates). 
+    Find the first and last index where a given target appears?
+'''
+'''
+Q4) Perform a linear search for a number in a 2D list (list of lists).
+    Return its row and column index if found, else return (-1, -1).
+'''
+'''
+Q5) Given an array of integers and a target value.
+    Use linear search to find the element closest to the target (minimum absolute difference). 
+    (Note:- Do not use sort and give the array in ascending order only)
+'''
+'''
+Q6) Given an array and a target value. 
+    Return a list of all indices where the target appears.
+'''
+'''
+Q7) Use linear search to find and return the first even number in the list. 
+    If no even number is found, return -1.  
+'''
